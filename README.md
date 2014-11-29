@@ -1,6 +1,6 @@
 # haproxy ssl termination
 
-Keep all your certificates for different domains under /etc/haproxy/certs.d one for each domain your are terminating.
+Keep all your certificates for different domains under /etc/haproxy/certs.d one for each domain you are terminating.
 
 You can keep a default certificate in */etc/haproxy/defaut.pem*.
 
